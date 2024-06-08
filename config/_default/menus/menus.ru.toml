@@ -1,0 +1,15 @@
+[[navbar]]
+  identifier = "blog"
+  name = "Блог"
+  url = "/ru/blog/"
+  weight = 2
+[[navbar]]
+  identifier = "projects"
+  name = "Проекты"
+  url = "/ru/projects/"
+  weight = 3
+[[navbar]]
+  identifier = "resources"
+  name = "Ресурсы"
+  url = "/ru/resources/"
+  weight = 4

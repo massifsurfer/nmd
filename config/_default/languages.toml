@@ -1,0 +1,12 @@
+[ce]
+contentDir = "content/ce"
+languageName = "Нохчийн"
+languageCode = "ce"
+weight = 1
+
+[ru]
+contentDir = "content/ru"
+languageName = "Русский"
+languageCode = "ru"
+weight = 2
+
