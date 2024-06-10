@@ -15,9 +15,9 @@ keywords:
 - programmer-friendly
 ---
 
-{{< icon vendor="simple" name="discord" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon vendor="simple" name="telegram" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon vendor="simple" name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
-{{< icon vendor="simple" name="huggingface" link="https://github.com/kaiiiz/hugo-theme-monochrome" >}}
+{{< icon vendor="simple" name="discord" link="#" >}}
+{{< icon vendor="simple" name="telegram" link="#" >}}
+{{< icon vendor="simple" name="github" link="#" >}}
+{{< icon vendor="simple" name="huggingface" link="#" >}}
 
 NMD - независимое сообщество энтузиастов чеченского языка. Мы объединяем носителей языка, разработчиков и лингвистов, чтобы вместе развивать чеченские цифровые сервисы.

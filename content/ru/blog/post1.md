@@ -1,5 +1,5 @@
 ---
-title: 'post1'
+title: 'Заметка 1'
 date: 2021-02-06
 search_hidden: true
 ---
