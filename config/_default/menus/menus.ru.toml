@@ -1,12 +1,12 @@
 [[navbar]]
-  identifier = "blog"
-  name = "Блог"
-  url = "/ru/blog/"
-  weight = 2
-[[navbar]]
   identifier = "projects"
   name = "Проекты"
   url = "/ru/projects/"
+  weight = 2
+[[navbar]]
+  identifier = "blog"
+  name = "Блог"
+  url = "/ru/blog/"
   weight = 3
 [[navbar]]
   identifier = "resources"

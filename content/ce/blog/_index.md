@@ -1,7 +1,6 @@
 ---
-title: 'Postcard Layout Demo'
-bookcase_cover_src: 'cover/catalogue.png'
-bookcase_cover_src_dark: 'cover/catalogue_dark.png'
+title: 'Блог'
 type: 'postcard'
+group_by_year: true
 weight: 40
 ---

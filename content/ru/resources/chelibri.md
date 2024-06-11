@@ -1,7 +1,6 @@
----
-title: 'Chelibri - Бекалахь, нохчийн мотт'
-search_hidden: true
----
++++
+title = "Chelibri - Бекалахь, нохчийн мотт"
++++
 
 {{< breadcrumbs >}}
 

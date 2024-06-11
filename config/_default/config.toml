@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://massifsurfer.github.io/nmd-preview/"
 languageCode = "ce"
 title = "NMD"
 theme = "hugo-theme-monochrome"

@@ -1,7 +1,6 @@
 ---
 title: 'Заметка 2'
 date: 2021-02-06
-search_hidden: true
 ---
 
  Mauris mi sem, facilisis id viverra et, egestas a odio. Donec ornare egestas risus, vitae accumsan quam maximus nec.

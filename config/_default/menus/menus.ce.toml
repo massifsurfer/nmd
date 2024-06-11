@@ -11,5 +11,5 @@
 [[navbar]]
   identifier = "resources"
   name = "Ресурсаш"
-  url = "resources/"
+  url = "/resources/"
   weight = 4
